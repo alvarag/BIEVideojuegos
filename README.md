@@ -1,8 +1,8 @@
-# BIE, programación de videojuegos
+# BIE: programación de videojuegos
 
 ## Profesores
-- Dr. José Francisco Díez Pastor
-- Dr. Álvar Arnaiz González
+- Dr. José Francisco Díez Pastor (@joseFranciscoDiez)
+- Dr. Álvar Arnaiz González (@alvarag)
 
 ## Descripción
 Este repositorio contiene el material necesario para el taller del BIE de programación de videojuegos.
