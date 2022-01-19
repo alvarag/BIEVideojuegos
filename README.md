@@ -1,6 +1,7 @@
 # BIE: programación de videojuegos
 
 ## Profesores
+- [José Miguel Ramírez Sanz](https://github.com/Josemi)
 - [Dr. José Francisco Díez Pastor](https://github.com/joseFranciscoDiez)
 - [Dr. Álvar Arnaiz González](https://github.com/alvarag)
 
